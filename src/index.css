@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.kereso{
+  text-align: center;
+  margin: 2em;
+  padding: 1em;
+  background-color: rgba(243, 235, 235, 0.55);
+ 
+}
+
+.cim{
+  background-color: hsl(0, 90%, 57%);
+  text-align: center;
+  font-size: 3em;
+  border: 3px solid hsl(0, 0%, 48% , 1.5);
+  border-radius: 5px;
+ 
+  padding: 0.5em;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+body{
+  margin:0;
+  padding: 0;
+  background-color: brown;
+  font-family: Arial, sans-serif;
+}
